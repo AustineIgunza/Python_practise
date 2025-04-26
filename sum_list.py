@@ -7,7 +7,7 @@ def sum_list(elements):
         totalsum +=num
     return totalsum
 
-#example
+#example sum
 list_1=[12,34,54,23,67]
 result = sum_list(list_1)
 print("Sum:",result)
