@@ -10,5 +10,5 @@ def sum_of_number_digits(number):
     return total
 
 
-#example case use that sums the digits of the number 4567 and prints the sum
+#an example case use that sums the digits of the number 4567 and prints the sum
 print(sum_of_number_digits(4567))
