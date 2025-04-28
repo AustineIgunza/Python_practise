@@ -4,7 +4,7 @@ def factorial_loop(r):
     #sets the default value as 1
     result = 1
     #multiplies the values between 1 and the next number after the given number
-    for i in range(1,r+1):
+    for i in range(1,r+2):
         result *= i
     return result
 
